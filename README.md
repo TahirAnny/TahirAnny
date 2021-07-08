@@ -1,4 +1,7 @@
 ### Hi there 👋
+Sorry!!! You had to see this! Meet Peeper, She is just always hungry 🤷‍♂️
+![snake gif](https://github.com/TahirAnny/TahirAnny/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **TahirAnny/TahirAnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
