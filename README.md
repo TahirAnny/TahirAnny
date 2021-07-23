@@ -4,6 +4,13 @@ Sorry!!! You had to see this! Meet Peeper, She is just always hungry 🤷‍♂�
 
 
 <!--
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny)](https://git.io/streak-stats)
+
+-->
+
+
+<!--
 **TahirAnny/TahirAnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
