@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!--
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/TahirAnny"><img alt="Tahira Anny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TahirAnny&custom_title=TahirAnny's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+-->
 
 
 Sorry!!! You had to see this! Meet Peeper, She is just always hungry 🤷‍♂️
