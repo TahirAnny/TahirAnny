@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-<!--
+
 Sorry!!! You had to see this! Meet Peeper, She is just always hungry 🤷‍♂️
 ![snake gif](https://github.com/TahirAnny/TahirAnny/blob/output/github-contribution-grid-snake.svg)
 
 
-
+<!--
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny)](https://git.io/streak-stats)
 
