@@ -8,7 +8,7 @@
 -->
 
 
-Sorry!!! You had to see this! Meet Peeper, She is just always hungry 🤷‍♂️
+Meet Peeper, She is just always hungry 🤷‍♂️
 ![snake gif](https://github.com/TahirAnny/TahirAnny/blob/output/github-contribution-grid-snake.svg)
 
 
