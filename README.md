@@ -11,8 +11,17 @@
 Meet Peeper, She is just always hungry 🤷‍♂️
 ![snake gif](https://github.com/TahirAnny/TahirAnny/blob/output/github-contribution-grid-snake.svg)
 
-
 <!--
+## 📉 My Stackoverflow Stats:
+<img align="right" src="https://github-readme-stackoverflow-nine.vercel.app/?userID=10117433" alt="Tahira Bishwas Anny's Stackoverflow Stats">
+</br>
+</br>
+
+
+ [All answer by Tahira Anny](https://stackoverflow.com/users/10117433/tba?tab=answers)
+
+
+
 [![LeetCode user tahirabishwas](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahirabishwas&logo=leetcode&logoColor=yellow)](https://leetcode.com/tahirabishwas/)
 
 
