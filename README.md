@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜 /&gt;!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+</h1>
+
+<br/>
+<br/>
+
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/TahirAnny/TahirAnny/blob/main/assets/lofi.gif?raw=true"/>
+
+- 🔭 I’m currently working on something cool!
+- 🌱 Learning new stuff
+- 💬 Ask me about anything, happy to help 😊
+- 📫 How to reach me: 
+
 
 <!--
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -7,9 +21,13 @@
   <br/>
 -->
 
+<br/>
+<br/>
+
+Ah Hold On!!! 
 
 Meet Peeper, She is just always hungry 🤷‍♂️
-![snake gif](https://github.com/TahirAnny/TahirAnny/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TahirAnny/TahirAnny/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 <!--
 ## 📉 My Stackoverflow Stats:
@@ -33,16 +51,6 @@ Meet Peeper, She is just always hungry 🤷‍♂️
 
 <!--
 **TahirAnny/TahirAnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny&" alt="TahirAnny" /></p>
