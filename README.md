@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h1>
 
-
+<br/>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TahirAnny/TahirAnny/blob/main/assets/lofi.gif?raw=true"/>
 
