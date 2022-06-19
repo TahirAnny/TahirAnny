@@ -5,7 +5,7 @@
 
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/TahirAnny/TahirAnny/blob/main/assets/lofi.gif?raw=true"/>
+<img align="right" height="250" width="400" alt="GIF" src="assets/lofi.gif?raw=true"/>
 
 - 🔭 I’m currently working on [DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/)
 - 🌱 Learning new stuff
@@ -26,13 +26,21 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/TahirAnny?label=Followers&style=social"> 
 </p>
 
+#
+
+<p align="center">
+  <img height="100" width="100" src="assets/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny&theme=dark&hide_border=true"/>
+  <img height="100" width="100" src="assets/right.webp">
+</p>
+
+#
+
 <!-- <p align="center">
   <code>
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p> -->
-
-#
 
 <!--
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -62,7 +70,7 @@ And now meet <strong>Peeper</strong>, She is just always hungry 🤷‍♂️
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny)](https://git.io/streak-stats)
+
 
 -->
 
