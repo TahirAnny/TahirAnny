@@ -56,6 +56,8 @@
 <br/>
 <br/>
 
+❤ to help others and Always try to spread good vibes on the interwebs. Here are some of the answers I found useful or fun (not necessarily accepted, nor highest voted)
+
 <!-- STACKOVERFLOW:START -->
 - [Automapper: validation exception ignoring destination property](https://stackoverflow.com/questions/69924947/automapper-validation-exception-ignoring-destination-property/69925330#69925330)
 - [How to remove the space char(32) at the end of Chinese character string?](https://stackoverflow.com/questions/69961687/how-to-remove-the-space-char32-at-the-end-of-chinese-character-string/69961740#69961740)
