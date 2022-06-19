@@ -3,8 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h1>
 
-<br/>
-<br/>
+
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TahirAnny/TahirAnny/blob/main/assets/lofi.gif?raw=true"/>
 
@@ -12,6 +11,12 @@
 - 🌱 Learning new stuff
 - 💬 Ask me about anything, happy to help 😊
 - 📫 How to reach me: 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 <p align="center">
