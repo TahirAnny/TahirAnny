@@ -7,7 +7,7 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="assets/lofi.gif?raw=true"/>
 
-- 🔭 I’m currently working on [DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/)
+- 🔭 I’m currently working at [DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/)
 - 🌱 Learning new stuff
 - 💬 Ask me about anything, happy to help 😊
 - 📫 How to reach me: tahirabishwas@gmail.com
@@ -26,34 +26,27 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/TahirAnny?label=Followers&style=social"> 
 </p>
 
-#
+<!-- #
 
 <p align="center">
   <img height="100" width="100" src="assets/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny&theme=dark&hide_border=true"/>
   <img height="100" width="100" src="assets/right.webp">
-</p>
+</p> -->
 
 #
 
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
+## 🏆 Github Status
 
-<!--
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/TahirAnny"><img alt="Tahira Anny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TahirAnny&custom_title=TahirAnny's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
--->
+<img  src="https://github-readme-stats.vercel.app/api?username=TahirAnny&show_icons=true&hide_border=true&theme=radical" width="45%" height="50%"  align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny&hide_border=true&theme=radical" width="45%" height="50%" >
 
+<br /> 
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
+  <a href="https://github.com/TahirAnny"><img alt="Tahira Anny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TahirAnny&custom_title=TahirAnny's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
-
-And now meet <strong>Peeper</strong>, She is just always hungry 🤷‍♂️
-![snake gif](https://github.com/TahirAnny/TahirAnny/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 <!--
 ## 📉 My Stackoverflow Stats:
@@ -69,9 +62,6 @@ And now meet <strong>Peeper</strong>, She is just always hungry 🤷‍♂️
 [![LeetCode user tahirabishwas](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahirabishwas&logo=leetcode&logoColor=yellow)](https://leetcode.com/tahirabishwas/)
 
 
-
-
-
 -->
 
 
@@ -81,3 +71,9 @@ And now meet <strong>Peeper</strong>, She is just always hungry 🤷‍♂️
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny&" alt="TahirAnny" /></p>
 -->
+
+<br/>
+<br/>
+
+And now meet <strong>Peeper</strong>, She is just always hungry 🤷‍♂️
+![snake gif](https://github.com/TahirAnny/TahirAnny/blob/output/github-contribution-grid-snake.svg?raw=true)
