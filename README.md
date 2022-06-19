@@ -7,10 +7,10 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TahirAnny/TahirAnny/blob/main/assets/lofi.gif?raw=true"/>
 
-- 🔭 I’m currently working on something cool!
+- 🔭 I’m currently working on [DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/)
 - 🌱 Learning new stuff
 - 💬 Ask me about anything, happy to help 😊
-- 📫 How to reach me: 
+- 📫 How to reach me: tahirabishwas@gmail.com
 
 <br/>
 <br/>
