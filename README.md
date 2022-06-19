@@ -48,16 +48,24 @@
   <a href="https://github.com/TahirAnny"><img alt="Tahira Anny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TahirAnny&custom_title=TahirAnny's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
 
-<!--
+#
+
 ## 📉 My Stackoverflow Stats:
-<img align="right" src="https://github-readme-stackoverflow-nine.vercel.app/?userID=10117433" alt="Tahira Bishwas Anny's Stackoverflow Stats">
-</br>
-</br>
+<img align="right" src="https://github-readme-stackoverflow-nine.vercel.app/?userID=10117433&theme=dark" alt="Tahira Bishwas Anny's Stackoverflow Stats">
+
+<br/>
+<br/>
+
+<!-- STACKOVERFLOW:START -->
+- [Automapper: validation exception ignoring destination property](https://stackoverflow.com/questions/69924947/automapper-validation-exception-ignoring-destination-property/69925330#69925330)
+- [How to remove the space char(32) at the end of Chinese character string?](https://stackoverflow.com/questions/69961687/how-to-remove-the-space-char32-at-the-end-of-chinese-character-string/69961740#69961740)
+- [w3wp process not found](https://stackoverflow.com/questions/13462016/w3wp-process-not-found)
+- [Playing video on HTML Canvas](https://stackoverflow.com/questions/69819307/playing-video-on-html-canvas/69819433#69819433)
+-  [All answer by Tahira Anny](https://stackoverflow.com/users/10117433/tba?tab=answers)
+<!-- STACKOVERFLOW:END -->
 
 
- [All answer by Tahira Anny](https://stackoverflow.com/users/10117433/tba?tab=answers)
-
-
+<!--
 
 [![LeetCode user tahirabishwas](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahirabishwas&logo=leetcode&logoColor=yellow)](https://leetcode.com/tahirabishwas/)
 
@@ -72,6 +80,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny&" alt="TahirAnny" /></p>
 -->
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
