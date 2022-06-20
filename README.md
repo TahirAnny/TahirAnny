@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/)
 - 🌱 Learning new stuff
-- 💬 Ask me about anything, happy to help 😊
+- 💭 Ask me question about C#, .Net, JavaScript, React, SQL || Happy to help 😊
 - 📫 How to reach me: tahirabishwas@gmail.com
 
 <br/>
