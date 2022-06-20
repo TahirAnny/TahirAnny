@@ -62,8 +62,8 @@
 - [Automapper: validation exception ignoring destination property](https://stackoverflow.com/questions/69924947/automapper-validation-exception-ignoring-destination-property/69925330#69925330)
 - [How to remove the space char(32) at the end of Chinese character string?](https://stackoverflow.com/questions/69961687/how-to-remove-the-space-char32-at-the-end-of-chinese-character-string/69961740#69961740)
 - [w3wp process not found](https://stackoverflow.com/questions/13462016/w3wp-process-not-found)
-- [uuidv4 error]([https://stackoverflow.com/questions/69819307/playing-video-on-html-canvas/69819433#69819433](https://stackoverflow.com/questions/70912241/just-after-installing-uuidv4-it-shows-error-which-is-as-follows/72174876#72174876))
--  [All answer by Tahira Anny](https://stackoverflow.com/users/10117433/tba?tab=answers)
+- [uuidv4 error](https://stackoverflow.com/questions/70912241/just-after-installing-uuidv4-it-shows-error-which-is-as-follows/72174876#72174876)
+- [All answer by Tahira Anny](https://stackoverflow.com/users/10117433/tba?tab=answers)
 <!-- STACKOVERFLOW:END -->
 
 
