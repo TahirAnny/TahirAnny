@@ -7,8 +7,10 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="assets/lofi.gif?raw=true"/>
 
-- 🔭 I’m currently working at [DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/)
-- 🌱 Learning new stuff
+- 🔭 I’m currently working as `Software Engineer` @[DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/)
+- 👀 Interested in Backend Engineering, System Design, Software Infrastructure, CI/CD, Cloud
+- 🎯 Currently focusing on DSA, System Design, Distributed Service
+- 💞️ I’m looking to collaborate on R&D 
 - 💭 Ask me question about C#, .Net, JavaScript, React, SQL || Happy to help 😊
 - 📫 How to reach me: tahirabishwas@gmail.com
 
