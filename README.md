@@ -97,4 +97,4 @@ And now meet <strong>Peeper</strong>, She is just always hungry 🤷‍♂️
 
 ### Connect with me:
 
-[![website](./assets/linkedin-dark.svg)](www.linkedin.com/in/tahira-bishwas-anny-a5b668150)
+<a href="htps://www.linkedin.com/in/tahira-bishwas-anny-a5b668150" target="blank"><img align="center" src="https://github.com/TahirAnny/TahirAnny/blob/main/assets/linkedin-light.svg" alt="gautamkrishnar" height="30" width="40" /></a>
