@@ -95,6 +95,6 @@
 And now meet <strong>Peeper</strong>, She is just always hungry 🤷‍♂️
 ![snake gif](https://github.com/TahirAnny/TahirAnny/blob/output/github-contribution-grid-snake.svg?raw=true)
 
-### Connect with me:
+### Connect with me
 
 <a href="https://www.linkedin.com/in/tahira-bishwas-anny-a5b668150" target="blank"><img align="center" src="https://github.com/TahirAnny/TahirAnny/blob/main/assets/linkedin-light.svg" alt="tahiraanny" height="30" width="40" /></a>
