@@ -52,7 +52,7 @@
 
 #
 
-## 📉 My Stackoverflow Stats:
+## 📉 My Stackoverflow Stats
 <img align="right" src="https://github-readme-stackoverflow-nine.vercel.app/?userID=10117433&theme=dark" alt="Tahira Bishwas Anny's Stackoverflow Stats">
 
 <br/>
