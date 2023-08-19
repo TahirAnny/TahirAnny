@@ -24,7 +24,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/TahirAnny" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">   
+  <img  alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜" src="https://profile-counter.glitch.me/TahirAnny/count.svg">   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/TahirAnny?label=Followers&style=social"> 
 </p>
 
