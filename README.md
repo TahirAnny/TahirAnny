@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-❤ to help others and Always try to spread good vibes on the interwebs. Here are some of the answers I found useful or fun (not necessarily accepted, nor highest voted)
+❤ to help others and always try to spread good vibes on the interwebs. Here are some of the answers I found useful or fun (not necessarily accepted, nor highest voted)
 
 <!-- StackOverflow:START -->
 - [Automapper: validation exception ignoring destination property](https://stackoverflow.com/questions/69924947/automapper-validation-exception-ignoring-destination-property/69925330#69925330)
