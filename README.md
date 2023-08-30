@@ -7,7 +7,7 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="assets/lofi.gif?raw=true"/>
 
-- 🔭 I’m currently working as `Software Engineer` @[DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/)
+<!-- - 🔭 I’m currently working as `Software Engineer` @[DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/) -->
 - 👀 Interested in Backend Engineering, System Design, Software Infrastructure, Distributed Service, CI/CD, Cloud
 - 🎯 Currently focusing on DSA, System Design
 - 💞️ I’m looking to collaborate on R&D 
