@@ -41,7 +41,7 @@
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=TahirAnny&show_icons=true&hide_border=true&theme=radical" width="45%" height="50%"  align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny&hide_border=true&theme=radical)" width="45%" height="50%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TahirAnny&hide_border=true&theme=radical" width="45%" height="50%" >
 <!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=TahirAnny&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="TahirAnny" />  -->
 
 <br /> 
