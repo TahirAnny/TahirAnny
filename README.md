@@ -18,6 +18,14 @@
 <br/>
 <br/>
 
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TahirAnny&theme=dark&hide_border=false)
+
+![Top Langs](https://github-stars-flame.vercel.app/api/top-langs/?username=TahirAnny&layout=compact&theme=codeSTACKr&hide=php)
+
+
+<!-- ## 🌟 Featured Projects
+
 <!-- #
 <p align="center">
   <img  alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜" src="https://profile-counter.glitch.me/TahirAnny/count.svg">   
